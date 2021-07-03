@@ -37,6 +37,12 @@ Different Augmentation Techniques were applied to Increase the Dataset. The augm
 | Enhancing Contrast     | [R=0.1-0.3],[G=0.2-0.4],[B=0] |
 | Adjusting Brightness   | [γ=0.75,γ=0.5]                |
 
+Fig 2. Shows the images obtained after performing geometrical and intensity based augmentation
+techniques.
+
+![image](https://user-images.githubusercontent.com/70446516/124352258-d40ed600-dc18-11eb-9827-c439a9459cb5.PNG)
+
+
 The CNN and Transfer Learning Code folder Includes the all files of Different Networks.
 
 The custom design CNN on
