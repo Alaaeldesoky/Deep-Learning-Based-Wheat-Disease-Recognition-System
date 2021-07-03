@@ -3,3 +3,13 @@ Increased agricultural production equipped with the modern technological pattern
 
 For dataset:
 https://drive.google.com/file/d/1LRQWWcXLGFcfyxHIMkZnorCHOhQCVZCD/view?usp=sharing
+
+The Composition of Wheat Disease Dataset.
+Wheat Disease   Number of Images
+Stripe Rust        157 
+Healthy Wheat      100 
+Black Chaff        100 
+Leaf Blotch        116
+Powdery Mildew     140 
+Leaf Rust          155 
+Smut               147
