@@ -16,6 +16,10 @@ The Composition of Wheat Disease Dataset.
 | Leaf Rust      | 155              |
 | Smut           | 147              |
 
+
+![new11](https://user-images.githubusercontent.com/70446516/124352221-95791b80-dc18-11eb-8f4b-748f73a57658.PNG)
+
+
 Different Augmentation Techniques were applied to Increase the Dataset. The augmentation Techniques Code are in Pre-processing codes Folder.
 
 | Augmentation Technique | Range                         |
