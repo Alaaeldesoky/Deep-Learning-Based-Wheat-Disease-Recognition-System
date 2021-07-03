@@ -17,6 +17,10 @@ The Composition of Wheat Disease Dataset.
 | Smut           | 147              |
 
 
+We have gathered a total of 915 images of wheat leaves, which contains, apart
+from images of healthy leaves, images of leaves afflicted with six different wheat diseases.
+Figure 1 shows sample training images from our dataset.
+
 ![new11](https://user-images.githubusercontent.com/70446516/124352221-95791b80-dc18-11eb-8f4b-748f73a57658.PNG)
 
 
